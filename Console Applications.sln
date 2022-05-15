@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyChess", "C:\Users\yamsh\D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlackJack", "BlackJack\BlackJack.vcxproj", "{1DCBD81F-40A3-45B9-B770-C3D05107D89F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WithMonsters", "WithMonsters\WithMonsters.vcxproj", "{9A04A062-3708-41A8-9274-61309FEC5DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x64.Build.0 = Release|x64
 		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x86.ActiveCfg = Release|Win32
 		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x86.Build.0 = Release|Win32
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Debug|x64.ActiveCfg = Debug|x64
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Debug|x64.Build.0 = Debug|x64
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Debug|x86.Build.0 = Debug|Win32
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Release|x64.ActiveCfg = Release|x64
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Release|x64.Build.0 = Release|x64
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Release|x86.ActiveCfg = Release|Win32
+		{9A04A062-3708-41A8-9274-61309FEC5DEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
