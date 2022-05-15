@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyChess", "C:\Users\yamsh\Desktop\git\console-first-projects\console-chess\MyChess\MyChess.vcxproj", "{B73237AF-1631-42B9-AF69-E0BBD5F59CA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlackJack", "BlackJack\BlackJack.vcxproj", "{1DCBD81F-40A3-45B9-B770-C3D05107D89F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B73237AF-1631-42B9-AF69-E0BBD5F59CA6}.Release|x64.Build.0 = Release|x64
 		{B73237AF-1631-42B9-AF69-E0BBD5F59CA6}.Release|x86.ActiveCfg = Release|Win32
 		{B73237AF-1631-42B9-AF69-E0BBD5F59CA6}.Release|x86.Build.0 = Release|Win32
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Debug|x64.ActiveCfg = Debug|x64
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Debug|x64.Build.0 = Debug|x64
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Debug|x86.Build.0 = Debug|Win32
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x64.ActiveCfg = Release|x64
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x64.Build.0 = Release|x64
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x86.ActiveCfg = Release|Win32
+		{1DCBD81F-40A3-45B9-B770-C3D05107D89F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
